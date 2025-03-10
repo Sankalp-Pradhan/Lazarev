@@ -6,24 +6,24 @@ This project is a personal endeavor to replicate the Awwwards 2022-winning "Lasa
 Features
 Recreated Award-Winning Design: Captures the essence of the 2022 Awwwards-honored site.
 
-Rich Animations: Driven by GSAP for sophisticated, high-quality motion.
+**Rich Animations:**   Driven by GSAP for sophisticated, high-quality motion.
 
-Dynamic Scrolling: Enhanced with ScrollTrigger and Locomotive Scroll for a fluid, engaging experience.
+**Dynamic Scrolling:** Enhanced with ScrollTrigger and Locomotive Scroll for a fluid, engaging experience.
 
-Responsive Design: Built with HTML and CSS for adaptability across devices.
+**Responsive Design:** Built with HTML and CSS for adaptability across devices.
 
-Library-Driven JS: Utilizes powerful JavaScript libraries for interactivity and effects.
+**Library-Driven JS:** Utilizes powerful JavaScript libraries for interactivity and effects.
 
 ## Tech Stack
-HTML: Structured and semantic markup.
+**HTML:** Structured and semantic markup.
 
-CSS: Custom styles inspired by the original.
+**CSS:** Custom styles inspired by the original.
 
-JavaScript: Enhanced with animation and scrolling libraries.
+**JavaScript:** Enhanced with animation and scrolling libraries.
 
-GSAP: Core animation engine for smooth, complex transitions.
+**GSAP:** Core animation engine for smooth, complex transitions.
 
-ScrollTrigger: GSAP plugin for scroll-based animation control.
+**ScrollTrigger:** GSAP plugin for scroll-based animation control.
 
-Locomotive Scroll: Library for premium smooth-scrolling functionality.
+**Locomotive Scroll:** Library for premium smooth-scrolling functionality.
 
