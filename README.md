@@ -10,8 +10,6 @@ Recreated Award-Winning Design: Captures the essence of the 2022 Awwwards-honore
 
 **Dynamic Scrolling:** Enhanced with ScrollTrigger and Locomotive Scroll for a fluid, engaging experience.
 
-**Responsive Design:** Built with HTML and CSS for adaptability across devices.
-
 **Library-Driven JS:** Utilizes powerful JavaScript libraries for interactivity and effects.
 
 ## Tech Stack
